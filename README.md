@@ -94,7 +94,7 @@ Python · Pandas · NumPy · Plotly · Scikit-learn · NetworkX · Streamlit · 
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autor
 
-**Evelyn Torres**  
+**DENZONE**  
 Data Intelligence · Business Analytics · Investigative Analytics
