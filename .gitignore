@@ -1,0 +1,30 @@
+# Entorno virtual
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data sensible (no subimos datos reales a GitHub)
+data/raw/
+data/processed/
+
+# MacOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Variables de entorno
+.env
+*.env
